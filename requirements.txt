@@ -1,0 +1,8 @@
+pyTelegramBotAPI
+requests
+gunicorn
+PySocks
+cryptography
+pyodata
+schedule
+threading

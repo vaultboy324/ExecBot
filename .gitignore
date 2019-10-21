@@ -1,0 +1,12 @@
+__pycache__/
+
+config.json
+user_info.json
+execBot.db
+
+key.txt
+
+create_tech_user_json.py
+
+.idea
+venv
