@@ -5,4 +5,3 @@ PySocks
 cryptography
 pyodata
 schedule
-threading
